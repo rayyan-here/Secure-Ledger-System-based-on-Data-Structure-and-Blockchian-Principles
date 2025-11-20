@@ -1,1 +1,1 @@
-# Secure-Ledger-System-based-on-Data-Structure-and-Blockchian-Principles
+# Secure-Ledger-System-based-on-Data-Structure-and-Blockchain-Principles
